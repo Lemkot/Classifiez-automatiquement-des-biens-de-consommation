@@ -14,8 +14,8 @@ une description.
 effectuée manuellement par les vendeurs, et est 
 donc peu fiable.
 
-### Mission: Réaliser une première étude de faisabilité d'un moteur de classification d'articles, 
-basé sur une image et une description, pour l'automatisation de l'attribution de 
+### Mission:
+Réaliser une première étude de faisabilité d'un moteur de classification d'articles, basé sur une image et une description, pour l'automatisation de l'attribution de 
 la catégorie de l'article.
 
 ### Objectifs principaux: 
